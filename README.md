@@ -20,9 +20,11 @@ disentaglement of latent space.
 
 ## Results:
 ## Style transfer grids
+Identity of a character is constant across columns and style of character is constant across rows. 
 ![](images/style-grids.png)
 
 ## Linear Interpolation
+Image in left and right corner are from dataset rest are generated and the former one is slowly changed to the latter using linear interpolation
 ![](images/linear_interpolation.png)
 [](https://github.com/Saswati08/Cycle-Consistent--VAE/blob/master/images/linear_interpolation.png)
 
