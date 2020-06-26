@@ -24,10 +24,9 @@ Identity of a character is constant across columns and style of character is con
 ![](images/style-grids.png)
 
 ## Linear Interpolation
-Image in left and right corner are from dataset rest are generated and the former one is slowly changed to the latter 
-and vice- versa using linear interpolation
+Image in left and right corner are from dataset rest are generated and the former one is slowly changed to the latter and vice- versa using linear interpolation
 ![](images/linear_interpolation.png)
-[](https://github.com/Saswati08/Cycle-Consistent--VAE/blob/master/images/linear_interpolation.png)
+
 
 ## Loss plot for predicting s using z
 ![](images/loss_specified_unspecified.png)
