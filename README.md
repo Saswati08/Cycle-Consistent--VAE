@@ -19,20 +19,21 @@ form of pair wise similarity of labels. It is also shown that using z- feature w
 disentaglement of latent space.
 
 ## Results:
-# Style transfer grids
-[](images/style-grids.png)
+## Style transfer grids
+![](images/style-grids.png)
 
-# Linear Interpolation
-[](images/linear_interpolation.png)
+## Linear Interpolation
+![](images/linear_interpolation.png)
+[](https://github.com/Saswati08/Cycle-Consistent--VAE/blob/master/images/linear_interpolation.png)
 
-# Loss plot for predicting s using z
-[](images/loss_specified_unspecified.png)
+## Loss plot for predicting s using z
+![](images/loss_specified_unspecified.png)
 
-# Loss plot for predicting z using s
-[](images/loss.png)
+## Loss plot for predicting z using s
+![](images/loss.png)
 
-# Images generated using predicted z and s
-[](images/prediction_network.png)
+## Images generated using predicted z and s
+![](images/prediction_network.png)
 
 
 
