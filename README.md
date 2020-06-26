@@ -35,5 +35,7 @@ disentaglement of latent space.
 ## Images generated using predicted z and s
 ![](images/prediction_network.png)
 
+## Accuracy(in %)
+![](images/accuracies.png)
 
 
